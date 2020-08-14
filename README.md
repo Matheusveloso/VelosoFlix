@@ -4,5 +4,7 @@ Projeto feito durante a Imersão React da Alura. Projeto desenvolvido por Matheu
 ## Como utilizar
 
 Baixe o projeto da branch Master.
+
 Instale as dependencias com o comando: npm install.
+
 Para rodar o projeto utilize o comando: npm run dev.
