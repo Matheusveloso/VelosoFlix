@@ -1,0 +1,227 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Músicas",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Filmes",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Séries",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Games",
+      "cor": "orange"
+    },
+    {
+      "id": 5,
+      "titulo": "Tecnologia Front End",
+      "cor": "red",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      }
+    },
+    {
+      "titulo": "Tecnologia Back End",
+      "descricao": "Categotia para tecnologias Back end.",
+      "cor": "#2b0381",
+      "id": 6
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Bem Vindos ao VelosoFlix, Músicas, Filmes e Séries, Games e Tecnologia encontra aqui!",
+      "url": "https://www.youtube.com/watch?v=_EyZUTDAH0U&list=PL9tY0BWXOZFvdeHbEJr7Wiztcue35IStT&index=15"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Chris Brown, Young Thug - Go Crazy (Official Video)",
+      "url": "https://www.youtube.com/watch?v=dPhwbZBvW2o&list=RDQXzLFXkt0DY&index=2"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Playboi Carti - Magnolia (Official Video)",
+      "url": "https://www.youtube.com/watch?v=oCveByMXd_0"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "A$AP Rocky - Praise The Lord (Da Shine) (Official Video) ft. Skepta",
+      "url": "https://www.youtube.com/watch?v=Kbj2Zss-5GY"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Migos - Bad and Boujee ft Lil Uzi Vert [Official Video]",
+      "url": "https://www.youtube.com/watch?v=S-sJp1FfG7Q"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Drake - God's Plan",
+      "url": "https://www.youtube.com/watch?v=xpVfcZ0ZcFM"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Drake - In My Feelings",
+      "url": "https://www.youtube.com/watch?v=DRS_PpOrUZ4"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "O Espetacular Homem Aranha Filme Completo Dublado 2012",
+      "url": "https://www.youtube.com/watch?v=bUiVq1KL_rg"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "God of War - O Filme (Dublado)",
+      "url": "https://www.youtube.com/watch?v=WtYUFBuOXa8"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "DEADPOOL 2",
+      "url": "https://www.youtube.com/watch?v=MiBZNToIHyE"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "15 MELHORES FILMES DA DÉCADA!",
+      "url": "https://www.youtube.com/watch?v=A05KF7lfd6U"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "11 MELHORES FILMES de 2019!",
+      "url": "https://www.youtube.com/watch?v=t85THL3SPaw"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "Eu, a Patroa e as Crianças - S01E01 | Piloto - HD",
+      "url": "https://www.youtube.com/watch?v=zFHxpmRhuTw&list=PL8Sjjz-miKH_g5O-HakKQsnRm2fRfRmYp"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "A Casa da Raven - 1x01",
+      "url": "https://www.youtube.com/watch?v=SoPhGJubV3U&list=PLVSSZd8HwhZcrYzPTMh8J5z17FnrhSDjc"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Os Feiticeiros de Waverly Place - 1ª Temporada ",
+      "url": "https://www.youtube.com/watch?v=m27ZZlNQino&list=PLAuaFuzaJlOOVAvcrCgJtYjJ8FJlLT3xs"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "As Visões da Raven - 1ª Temporada",
+      "url": "https://www.youtube.com/watch?v=AAll5eqZEOE&list=PLVSSZd8HwhZeBdmPm4bDJT5BZ_C-AORJO&index=1"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "GOD OF WAR - O INÍCIO DE GAMEPLAY",
+      "url": "https://www.youtube.com/watch?v=Wf5tpMhziII&list=PLH9fqbYeMD3PYlhySjNK53sOqsFvXYvpB"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "RED DEAD REDEMPTION 2 - O Início de Gameplay",
+      "url": "https://www.youtube.com/watch?v=BoohYJlRXa8"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "FIFA 21 – Trailer Oficial de Jogabilidade",
+      "url": "https://www.youtube.com/watch?v=Jmliox1trPQ"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Assassins Creed Valhalla",
+      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+    },
+    {
+      "id": 21,
+      "categoriaId": 5,
+      "titulo": "O que faz uma desenvolvedora front-end?",
+      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "O que o JavaScript é capaz de fazer? - Curso JavaScript #01",
+      "url": "https://www.youtube.com/watch?v=Ptbk2af68e8"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Curso de HTML e CSS - Aula 1",
+      "url": "https://www.youtube.com/watch?v=SaA4VH2qHsE&list=PLe1Nqg5OJMG6EOo5BU6hWGzxapFfs6z6z"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Por onde começar? Front End e UX/UI Design",
+      "url": "https://www.youtube.com/watch?v=-5kJdbkG90g"
+    },
+    {
+      "titulo": "Carreira Backend: O que estudar?",
+      "url": "https://www.youtube.com/watch?v=DmgiRK-yZ_A",
+      "categoriaId": 6,
+      "id": 25
+    },
+    {
+      "titulo": "Curso de Java #01 - História do Java - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR",
+      "categoriaId": 6,
+      "id": 26
+    },
+    {
+      "titulo": "Curso de PHP 7 - Aula 01 - Introdução ao PHP 7",
+      "url": "https://www.youtube.com/watch?v=XwpsxPmQN2E&list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq",
+      "categoriaId": 6,
+      "id": 27
+    },
+    {
+      "titulo": "Curso MySQL #01 - O que é um Banco de Dados?",
+      "url": "https://www.youtube.com/watch?v=Ofktsne-utM",
+      "categoriaId": 6,
+      "id": 28
+    },
+    {
+      "titulo": "Curso Python #01 - Seja um Programador",
+      "url": "https://www.youtube.com/watch?v=S9uPNppGsGo",
+      "categoriaId": 6,
+      "id": 29
+    }
+  ]
+}
